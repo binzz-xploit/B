@@ -1,0 +1,18 @@
+//sc base apk bug buatan : @AiiSigma
+
+gw azizx official bagi bagi ni base apk bug baru rilis dan dikasih cuma free kalo ada yang jual yapit dan kalo ini dihapus yapit lu
+
+buy panel/nokos pv gw azizx @zizzzyh
+gabisa masang? tanya gw ke pv atau ngga
+
+bagian config.js ganti domain panel kalian dan port itu di panel ada biasanya addres misal 0.0.0.0:4019
+yang di ambil 4019 nya
+
+dan token bot tele nya jangan lupa di ganti di index.js di hal 26
+
+akses.json
+owner pake id tele lu 
+
+join ch gw @chazizxofficial
+
+//hapus/ganti yapit jual yapit 
